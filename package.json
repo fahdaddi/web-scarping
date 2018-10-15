@@ -1,0 +1,25 @@
+{
+  "name": "web-scarper",
+  "version": "1.0.0",
+  "description": "just a simple web scraping tool for ma sprint in my current job",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scarping",
+    "scarping",
+    "tool",
+    "open",
+    "source",
+    "nodeJs",
+    "cheerio",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "cheerio",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b["
+  ],
+  "author": "fahd addi",
+  "license": "ISC"
+}
